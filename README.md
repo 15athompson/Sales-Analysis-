@@ -222,4 +222,4 @@ ORDER BY OrderDateKey ASC
 
 ---
 
-*This project demonstrates the application of modern business intelligence principles to transform traditional reporting processes into dynamic, interactive analytics platforms that drive organisational performance and strategic decision-making.*
+
